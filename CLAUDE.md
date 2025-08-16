@@ -212,13 +212,13 @@ ClearFlow provides explicit routing with single termination enforcement. Keep th
 
 ## Documentation Size Limits
 
-ClearFlow is 200 lines. Documentation should be proportional:
-- README.md: <30 lines
+ClearFlow is ~166 lines. Documentation should be proportional:
+- README.md: Keep concise but complete (~200 lines is reasonable for user-facing docs)
 - CONTRIBUTING.md: <50 lines  
 - Individual docs: <100 lines
 - Total documentation: <500 lines
 
-If a document is longer than the code it describes, it's too long.
+Balance completeness with conciseness. The README needs to properly onboard users while staying focused.
 
 ## Release Process
 

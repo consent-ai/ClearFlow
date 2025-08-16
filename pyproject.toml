@@ -1,7 +1,7 @@
 [project]
 name = "clearflow"
 version = "0.0.0"  # Version dynamically set by CI/CD pipeline
-description = "Reliable language model orchestration. Type-safe with 100% test coverage."
+description = "Type-safe async orchestration for LLM agents. Zero dependencies, 100% test coverage."
 authors = [{name = "Richard Beauchamp", email = "rbeauchamp@users.noreply.github.com"}]
 maintainers = [{name = "ClearFlow Contributors"}]
 license = {text = "MIT"}
